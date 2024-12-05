@@ -4,7 +4,7 @@
 #### wei wei
 ##### xiao fang
 
-`cout << fuck `
+`cout << `
 
 ---
 wowowowowowo
